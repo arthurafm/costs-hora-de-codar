@@ -30,15 +30,15 @@
       "id": 4
     },
     {
-      "name": "Projeto 1",
+      "name": "Teste",
       "budget": "10000",
       "category": {
-        "id": "1",
-        "name": "Infraestrutura"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 5
+      "id": 6
     }
   ],
   "categories": [
